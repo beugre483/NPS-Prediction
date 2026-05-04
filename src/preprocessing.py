@@ -321,9 +321,8 @@ class LinearPreprocessor(PreprocessingTemplate):
         )
 
 
-# ─────────────────────────────────────────────
 # Concrete Class 3 — Neural Network / MLP
-# ─────────────────────────────────────────────
+
 
 class NeuralNetPreprocessor(PreprocessingTemplate):
     """
